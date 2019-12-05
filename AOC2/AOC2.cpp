@@ -1,10 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include <string.h>
-#include <stdexcept>
 #include <boost/algorithm/string.hpp>
-#include <utility>
 
 enum CODE : int
 {
